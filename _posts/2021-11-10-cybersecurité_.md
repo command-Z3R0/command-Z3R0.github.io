@@ -36,4 +36,3 @@ La cybersécurité consiste à protéger les ordinateurs, les serveurs, les appa
 l.
 
 
-![](/assets/images/htb-writeup-delivery/root.png)
