@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "haxor" # "air", "aqua", "contrast", "dark", "dirt", 
 
 # Site Settings
 locale                   : "en-US"
-title                    : "command-Z3R0.io"
+title                    : "command-Z3R0.github.io"
 title_separator          : "-"
 name                     : "command.Z3R0"
 description              : "Posts aboutsecurity, CTFs and networking"
