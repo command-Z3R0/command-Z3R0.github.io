@@ -2,7 +2,7 @@
 layout: single
 title: la cybersécurité 
 
-excerpt: "Je suis * command-z3r0 *, un futur étudiant en sécurité informatique. Je suis passionné par la cybersécurité.
+excerpt: "Je suis *command-z3r0*, un futur étudiant en sécurité informatique. Je suis passionné par la cybersécurité.
 Je présenterai ce domaine fantastique."
 
 date: 2021-11-10
