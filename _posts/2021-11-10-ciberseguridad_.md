@@ -1,8 +1,8 @@
 ---
 layout: single
-title: La ciberseguridad
+title: La Cybersecurité
 
-excerpt: "Soy *command-z3r0*, estudiante en seguridad informatica. Apasionado de este mundillo desde temprana edad"
+excerpt: "je suis *command-z3r0*, etudiant dans securité informatique"
 
 date: 2022-11-10
 classes: wide
@@ -13,25 +13,30 @@ header:
 categories:
   - Infosec
 tags:  
-  - Ciberseguridad
-  - Redes
-  - Aplicaciones
+  - Cybersecurité
+  - Reseaux
+  - Appications
 ---
 
 ![](/assets/images/htb-writeup-delivery/secu.jpg)
 
 
 
-**¿Qué es la ciberseguridad?**
+**Qu'est-ce que la cybersécurité ?**
 
-La ciberseguridad se trata de proteger computadoras, servidores, dispositivos móviles, sistemas electrónicos, redes y datos de ataques maliciosos. También se conoce como seguridad de la tecnología de la información o seguridad de la información electrónica. El término se aplica en diferentes contextos, desde la empresa hasta la informática móvil, y se puede dividir en algunas categorías comunes.
+La Cybersecurité consiste en protéger les ordinateurs, les serveurs, les appareils mobiles, les systèmes électroniques, les réseaux et les données contre les attaques malveillantes. On l'appelle également sécurité des technologies de l'information ou sécurité de l'information électronique. Le terme s'applique dans différents contextes, de l'entreprise à l'informatique mobile, et peut être divisé en quelques catégories courantes.
 
-    La seguridad de la red es la práctica de proteger las redes informáticas de intrusos, ya sean atacantes o malware dirigido oportunista.
-    La seguridad de las aplicaciones se centra en mantener las amenazas libres de software y dispositivos. Una aplicación afectada podría dar acceso a los datos que se supone que debe proteger. La seguridad efectiva comienza en la etapa de diseño, mucho antes de que se implemente un programa o dispositivo.
-    La seguridad de la información protege la integridad y confidencialidad de los datos, tanto en almacenamiento como en tránsito.
-    La seguridad operativa incluye los procesos y decisiones para administrar y proteger los activos de datos. En esta categoría se incluyen los permisos que tienen los usuarios para acceder a una red y los procedimientos que determinan cómo y dónde se pueden almacenar o compartir los datos.
-    La recuperación ante desastres y la continuidad del negocio define cómo responde una organización a un incidente de seguridad cibernética u otro evento que resulte en tiempo de inactividad o pérdida de datos. Las políticas de recuperación ante desastres dictan cómo la organización restaura sus operaciones e información para recuperar la misma capacidad operativa que tenía antes del evento. La continuidad del negocio es el plan al que recurre la organización cuando intenta operar sin ciertos recursos.
-    La formación del usuario final aborda el factor más impredecible de la ciberseguridad: las personas. Si se violan las buenas prácticas de seguridad, cualquiera puede introducir accidentalmente un virus en un sistema seguro. Enseñar a los usuarios cómo eliminar archivos adjuntos sospechosos, no conectar unidades USB no identificadas y otras lecciones importantes es esencial para la seguridad de cualquier organización.
+- La sécurité réseau est la pratique visant à protéger les réseaux informatiques contre les intrusions, qu'il s'agisse d'attaquants ou de logiciels malveillants ciblés.
+
+- La sécurité des applications se concentre sur le maintien d'un environnement sans menaces en matière de logiciels et de dispositifs. Une application compromise pourrait donner accès aux données qu'elle est censée protéger. Une sécurité efficace commence dès la phase de conception, bien avant la mise en œuvre d'un programme ou d'un dispositif.
+
+- La sécurité de l'information protège l'intégrité et la confidentialité des données, tant en stockage qu'en transit.
+
+- La sécurité opérationnelle comprend les processus et décisions visant à gérer et protéger les actifs de données. Cette catégorie comprend les autorisations accordées aux utilisateurs pour accéder à un réseau, ainsi que les procédures déterminant comment et où les données peuvent être stockées ou partagées.
+
+- La récupération après sinistre et la continuité des activités définissent la façon dont une organisation réagit à un incident de cybersécurité ou à tout autre événement entraînant une période d'indisponibilité ou une perte de données. Les politiques de récupération après sinistre dictent comment l'organisation rétablit ses opérations et ses informations pour retrouver la même capacité opérationnelle qu'avant l'événement. La continuité des activités est le plan sur lequel l'organisation s'appuie lorsqu'elle tente de fonctionner sans certaines ressources.
+
+La formation des utilisateurs finaux aborde le facteur le plus imprévisible de la cybersécurité : les personnes. Si de bonnes pratiques de sécurité sont violées, n'importe qui peut accidentellement introduire un virus dans un système sécurisé. Enseigner aux utilisateurs comment supprimer les pièces jointes suspectes, ne pas connecter de clés USB non identifiées et d'autres leçons importantes est essentiel pour la sécurité de toute organisation.
 
 
 
