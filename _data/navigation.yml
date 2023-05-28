@@ -1,14 +1,14 @@
 main:
-  - title: "Inicio"
+  - title: "Accueil"
     url: /
-  - title: "Artículos"
+  - title: "Articles"
     url: /year-archive/
-  - title: "Etiquetas"
+  - title: "Tags"
     url: /tags/
-  - title: "Categorías"
+  - title: "Categories"
     url: /categories/
-  - title: "Buscador"
-    url: /buscador/
-  - title: "Acerca"
+  - title: "Recherche"
+    url: /search/
+  - title: "A propos"
     url: /about/
 
