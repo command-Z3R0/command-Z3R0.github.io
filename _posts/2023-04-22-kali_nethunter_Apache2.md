@@ -85,7 +85,7 @@ Pour moi, le résultat ne se lance pas, c'est pourquoi, si vous obtenez le même
 
 ## Comment résoudre le problème ?
 
-Nuestro problème est le service **Apache2**. e l'ai résolu en remplaçant le service **Apache2** par un service similaire **Nginx**
+Nuestro problème est le service **Apache2**. Je l'ai résolu en remplaçant le service **Apache2** par un service similaire **Nginx**
 
 <p align="center">
 <img src="/assets/images/apache2/5.png" width="300">
