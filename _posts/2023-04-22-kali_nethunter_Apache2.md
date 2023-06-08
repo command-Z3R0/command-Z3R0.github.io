@@ -70,6 +70,10 @@ Je vous conseille également de réinstaller le paquet apache2 en utilisant les 
 ┌──(root㉿kali)-[~]
 └─# apt-get install apache2
 ```
+<p align="center">
+<img src="/assets/images/apache2/3.png" width="300">
+</p>
+
 Dans mon cas, je l'ai fait auparavant et tout était installé correctement
 
 ```go
