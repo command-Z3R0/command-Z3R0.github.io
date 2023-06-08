@@ -76,6 +76,13 @@ Dans mon cas, je l'ai fait auparavant et tout était installé correctement
 ┌──(root㉿kali)-[~]
 └─# service apache2 start
 ```
+
+
+```go
+┌──(root㉿kali)-[~]
+└─# service apache2 status
+apache2 is not running ... failed! 
+```
 <p align="center">
 <img src="/assets/images/apache2/4.png" width="300">
 </p>
@@ -87,18 +94,15 @@ Pour moi, le résultat ne se lance pas, c'est pourquoi, si vous obtenez le même
 
 Nuestro problème est le service **Apache2**. Je l'ai résolu en remplaçant le service **Apache2** par un service similaire **Nginx**
 
-<p align="center">
-<img src="/assets/images/apache2/5.png" width="300">
-</p>
-
 ```go
 ┌──(root㉿kali)-[~]
 └─# apt-get remove apache2 
 ```
 
 <p align="center">
-<img src="/assets/images/apache2/6.png" width="300">
+<img src="/assets/images/apache2/5.png" width="300">
 </p>
+
 
 Et une fois que le service **Apache2** a été supprimé, nous installerons le service *Nginx*, avec la commande :
 
@@ -107,10 +111,10 @@ Et une fois que le service **Apache2** a été supprimé, nous installerons le s
 └─# apt-get install nginx
 ```
 
+
 <p align="center">
 <img src="/assets/images/apache2/6.png" width="300">
 </p>
-
 
 Si tout se passe bien, cela devrait normalement nous donner ceci comme résultat si nous lançons le service avec la commande :
 
@@ -144,7 +148,7 @@ Pour faciliter le démarrage du service dans Kali Nethunter, à partir de l'inte
 </p>
 
 
-A ca:
+A ça:
 
 
 <p align="center">
