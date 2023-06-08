@@ -8,7 +8,7 @@ main:
   - title: "Tags"
     url: /tags/
   - title: "Recherche"
-    url: /buscador/
+    url: /recherche/
   - title: "A Propos"
     url: /about/
   - title: "es-ES"
