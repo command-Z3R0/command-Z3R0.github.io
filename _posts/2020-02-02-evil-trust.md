@@ -33,7 +33,7 @@ L'outil dispose de plusieurs modèles à utiliser, y compris un modèle personna
 
 Chacun des modèles configurés (Facebook, Twitter, Google, Starbucks, Yahoo, ...) est accompagné d'un modèle 2FA (Second Factor Authentication), qui nous permettra d'obtenir le code d'accès qui est envoyé par SMS à tous les utilisateurs. qui ont activé cette mesure de protection.
 
-##Comment l'outil est-il structuré ?
+## Comment l'outil est-il structuré ?
 L'outil est développé en **Bash**, et est capable de fonctionner en 2 modes basés sur le paramètre `-m`:
 
 ```go
