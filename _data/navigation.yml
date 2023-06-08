@@ -1,15 +1,15 @@
 main:
-  - title: "Inicio"
+  - title: "Accueil"
     url: /
-  - title: "Artículos"
+  - title: "Articles"
     url: /year-archive/
-  - title: "Categorías"
+  - title: "Categories"
     url: /categories/
-  - title: "Etiquetas"
+  - title: "Tags"
     url: /tags/
-  - title: "Buscador"
+  - title: "Recherche"
     url: /buscador/
-  - title: "Acerca"
+  - title: "A Propos"
     url: /about/
-  - title: "fr-FR"
-    url: https://commander-z3r0.github.io/
+  - title: "es-ES"
+    url: https://command-z3r0.github.io/
