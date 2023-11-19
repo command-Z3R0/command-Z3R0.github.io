@@ -10,7 +10,7 @@ header:
   icon: /assets/images/hacktheboxx.webp
 categories:
   - Hardware
-  - Fait maison
+  - Fait-maison
 tags:
   - Pentesting
   - Hacking
